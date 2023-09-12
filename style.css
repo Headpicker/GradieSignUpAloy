@@ -58,8 +58,8 @@
 		.image-container {
 			  background-color: #183E4F;
 			  border: 1px solid #ccc; 
-              display: flex;  
-              justify-content: center;   
+              display: flex; /* Use flexbox for centering */
+              justify-content: center; /* Center horizontally */ 
 			  position: relative;
 			  width: 300px; 
 			  border: 0px; 
